@@ -10,26 +10,30 @@ This code was copied and adapted from [Buster Benson](https://busterbenson.com/l
 
 ## 🚀 Setup
 
-1. Install Hugo:
-   ```sh
-   brew install hugo  # Mac
-   ```
-2. Clone and run locally:
-```sh
+1.  Install Hugo:
+
+    ``` sh
+    brew install hugo  # Mac
+    ```
+
+2.  Clone and run locally:
+
+``` sh
     git clone https://github.com/ginatrapani/life-in-weeks.git
     cd life-in-weeks
     hugo server -D
 ```
-3. Visit [http://localhost:1313/](http://localhost:1313/).
+
+3.  Visit <http://localhost:1313/>.
 
 ## ✨ Customize
 
-- `content/` → Page content
-- `layouts/` → Templates
-- `assets/scss/` → Styles
-- `assets/imgs/` → Site-wide images
-- `static/` → Unprocessed assets
-- `hugo.toml` → Site settings
+-   `content/` → Page content
+-   `layouts/` → Templates
+-   `assets/scss/` → Styles
+-   `assets/imgs/` → Site-wide images
+-   `static/` → Unprocessed assets
+-   `hugo.toml` → Site settings
 
 ## Colophon
 
@@ -41,8 +45,8 @@ The font is [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
 
 There are several neat Life in Weeks examples and tools, including:
 
-- [Weeksofyour.life](https://www.weeksofyour.life/): Make your own, completely browser-based
-- [Life Calendar](https://lifecalendar.io): Make your own, with multiple layers
-- [My Life in Days](https://days.sonnet.io/): Beautiful refactor, by days
+-   [Weeksofyour.life](https://www.weeksofyour.life/): Make your own, completely browser-based
+-   [Life Calendar](https://lifecalendar.io): Make your own, with multiple layers
+-   [My Life in Days](https://days.sonnet.io/): Beautiful refactor, by days
 
 🍯 “I always get to where I am going by walking away from where I have been.” – Winnie the Pooh

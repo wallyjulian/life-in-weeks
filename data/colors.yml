@@ -6,9 +6,13 @@
 # Convert based and doing class_name's to lower case and replace spaces with dashes
 # i.e., New York City becomes new-york-city
 #
-- class_name: "brooklyn"
+
+- class_name: "windsor"
   element: "border"
   color_name: "#8eb2d6"
+- class_name: "toronto"
+  element: "border"
+  color_name: "#1efabf"
 - class_name: "san-diego"
   element: "border"
   color_name: "#FCC737"

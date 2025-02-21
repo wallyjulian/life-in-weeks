@@ -2,36 +2,50 @@
 # The first event should be birth.
 # The date should match start_date in content/index.md.
 #
-"1975-09-19":
+"1951-12-29":
     - headline: "🐣 I was born"
-      description: "I entered the world at around 9am in Brooklyn, New York, USA, the youngest of 4 by far, a happy accident. Thanks, Mom. Dad came to the hospital in a jacket and tie to meet me for the first time."
-      based: "Brooklyn"
+      description: "I entered the world at around 9am in at Hotel-Dieu of St. Joseph Hospital in Windsor Ontarion, Canada, the oldest of 4 by far, a happy accident. There was a blizzard on my birthday."
+      based: "Windsor"
       doing: "I was tiny"
 
-"1980-09-01":
+"1956-09-04":
     - headline: "🖍️ Kindergarten"
-      description: "Went to Tiny Tot Schoolhouse, where Miss Mary and Miss Nini were my teachers."
-      based: "Brooklyn"
+      description: "Went to Ursuline Sisters in the 800 block of Ouellette Avenue. The house is now the main branch of the Windsor Public Library."
+      based: "Windsor"
       doing: "Kindergartner"
-      association: "Tiny Tot Schoolhouse"
+      association: "Ursuline Sisters"
 
-"1981-09-01":
+"1957-09-04":
     - headline: "📓 Elementary school"
-      description: "Went to Catholic school, with uniforms, nuns, mass, and all."
-      based: "Brooklyn"
+      description: "Went to St. Andrews elementary school, a Catholic school, with uniforms, nuns, mass, and all."
+      based: "Windsor"
       doing: "Student"
-      association: "St. E"
+      association: "St. Andrews elementary school"
+
+"1963-06-29":
+    - headline: "🏠 Moved home"
+      description: "Went to Toronto. 70 Park Lane Circle and St. Bonaventure's School for grade 8."
+      based: "Toronto"
+      doing: "Student"
+      association: "St. Bonaventure's School"
+
+"1964-09-04":
+    - headline: "📚 High school"
+      description: "All boys Catholic high schoool. St. Mikes."
+      based: "Toronto"
+      doing: "High school student"
+      association: "SMCS"
+
+"1969-09-04":
+    - headline: "🏫 College"
+      description: "Catholic University. Also St. Mikes."
+      based: "Toronto"
+      doing: "College student"
+      association: "USMC"
 
 "1984-04-01":
     - headline: "🖥️ First computer"
       description: "Dad loved gadgets and was ahead of his time when he bought us an IBM PCjr. Wrote my first BASIC programs on that machine, played the Keyboard Adventure easter egg game, Kings Quest and Space Quest, and drew a pixelated Van Halen logo with A."
-
-"1989-09-01":
-    - headline: "📚 High school"
-      description: "All girls Catholic high schoool, where my sister went."
-      based: "Brooklyn"
-      doing: "High school student"
-      association: "BKHS"
 
 "1989-11-23":
     - headline: "🎫 First concert"
